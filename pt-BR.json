@@ -739,14 +739,14 @@
 		"label-delete-file": "Excluir arquivo",
 		"button-cancel": "Cancelar",
 		"button-done": "Pronto",
-		"button-save": "Save",
-		"button-continue": "Continue",
+		"button-save": "Salvar",
+		"button-continue": "Continuar",
 		"preparing-pdf": "Preparando o PDF...",
-		"label-rename-file": "Rename file",
+		"label-rename-file": "Renomear arquivo",
 		"label-new-name": "Novo nome",
 		"msg-rename-success": "Arquivo renomeado com sucesso.",
-		"label-rename-heading": "Rename heading",
-		"label-rename-blockid": "Rename block ID"
+		"label-rename-heading": "Renomear esta seção",
+		"label-rename-blockid": "Renomear a identificação deste bloco"
 	},
 	"menu-items": {
 		"new-file": "Create Note",
